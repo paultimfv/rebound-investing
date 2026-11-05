@@ -25,7 +25,7 @@ The framework structure:
 git clone https://github.com/paultimfv/rebound-investing ~/.claude/skills/rebound-investing
 ```
 
-Needs Python 3. No packages and no API keys.
+Needs Python 3. 
 
 ## Use
 
@@ -58,7 +58,3 @@ templates/deep-dive.md    the write-up, with the verdict in YAML frontmatter
 scripts/qgv.py            QGV screen: SEC filings + Yahoo for stocks, CoinGecko + DefiLlama for tokens
 scripts/value.py          three-scenario valuation, 15% return price, reward to risk, implied growth
 ```
-
-The YAML frontmatter is the machine-readable verdict, so other tools can read it. The skill never places trades.
-
-Not financial advice.
