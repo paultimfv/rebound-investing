@@ -1,14 +1,16 @@
 # Rebound Investing
 
-A Claude Code skill for researching beaten-down stocks and crypto tokens with Rebound Capital's framework.
+A Claude Code skill for researching potential 'rebound' stocks and crypto tokens with Rebound Capital's framework. 
 
-It speeds up the research. It doesn't make the decision. Claude pulls the data, runs the numbers and argues the other side. At six points you give your own answer before seeing Claude's.
+Simply load the /rebound-investing skill, enter any stock or crypto token, and then see if the asset is likely to 'rebound' in value and why. 
+
+NOT FINANCIAL ADVICE - JUST A CLAUDE SKILL. 
 
 ## The framework
 
-Based on [Rebound Capital](https://reboundcapital.substack.com)'s published process.
+Based on [Rebound Capital](https://reboundcapital.substack.com)'s published investment process, which looks for high quality businesses that are growing robustly but whose valuation sits below a rough estimate of its intrinsic value. In other words, to "invest when the market becomes less efficient in the short term." 
 
-Buy high-quality, growing businesses after a sharp drop, when the drop comes from sentiment rather than a broken business. Risk is the chance of a permanent loss, not volatility, so a good business gets less risky as its price falls.
+The framework structure: 
 
 - **Quality**: ROIC above 20%, margins at the top of the industry, cash from operations above 70% of EBIT.
 - **Growth**: more than 7% a year over 3–5 years, with gross and operating profit growing faster than revenue.
